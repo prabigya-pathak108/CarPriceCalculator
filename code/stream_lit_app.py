@@ -33,7 +33,7 @@ except Exception as e:
 
 st.set_page_config(page_title="Car Price Predicter",page_icon="🚗",layout="centered")
 
-st.markdown("<div style='background-color:#219C90; border-radius:50px; align-items:center; justify-content: center;'><h1 style='text-align:center; color:white;'>Car Price Predicter</h1></div>",unsafe_allow_html=True)
+st.markdown("<div style='background-color:#219C90; border-radius:50px; align-items:center; justify-content: center;'><h1 style='text-align:center; color:white;'>Car Price Predictor</h1></div>",unsafe_allow_html=True)
 
 st.markdown("<h4 style='text-align:center; color:black;'>Calculate The Best Price For The Car</h4>",unsafe_allow_html=True)
 
