@@ -13,9 +13,9 @@ current_dir = os.getcwd()
 # csv_path = os.path.join(current_dir,r"dataset\cleaned_car_price_csv.csv")
 # model_path_a = os.path.join(current_dir,r"code\saved_model_for_car_price.pkl")
 
-image_path = os.path.join(current_dir,"car_image.png")
-csv_path = os.path.join(current_dir,"cleaned_car_price_csv.csv")
-model_path_a = os.path.join(current_dir,"saved_model_for_car_price.pkl")
+image_path = "car_image.png"
+csv_path = "cleaned_car_price_csv.csv"
+model_path_a = "saved_model_for_car_price.pkl"
 print("-"*36)
 print("model path is :",model_path_a)
 print("csv path is ", csv_path)
